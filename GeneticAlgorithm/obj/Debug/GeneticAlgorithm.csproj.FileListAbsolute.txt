@@ -1,0 +1,9 @@
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
